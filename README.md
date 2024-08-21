@@ -18,7 +18,7 @@ Lastly, there's often a failure in the feedback loop. The iterative process of d
 
 ## How We Improve
 
-To bridge the gap between the dazzling potential of software and the gritty reality of user needs, there are several practical steps organizations can take.
+To bridge the gap between the dazzling potential of software and the gritty reality of user needs, there are several practical steps organizations, and we, as engineers, can take.
 
 1. **Start with the user, always.** This means investing in robust user research—understand their day-to-day, listen to their frustrations, and observe their interactions. It’s not about asking users what they want; it’s about discovering what they need. This is detective work—no less glamorous than what you’d see on "CSI," but instead of solving crimes, you’re solving user problems.
 
