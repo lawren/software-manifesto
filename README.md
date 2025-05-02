@@ -49,7 +49,9 @@ The better trade is scope. Build less, but build it right. Clean architecture, c
 
 Ego kills good products. Stay curious. Let go of the need to be right. The best engineers I know question their own assumptions more than anyone else.
 
-None of this is about perfection. It’s about iteration. Software is never done, and neither is our responsibility to the people who use it.
+That janky code you want to rewrite? It was probably written by someone just as skilled, solving a real problem under constraints you don’t see. Respect that. Learn from it. And when it’s your turn, leave behind the kind of clarity you wish you had—through helpful comments, thoughtful naming, and clean abstractions.
+
+This isn’t about perfection. It’s about progress. Software is never truly done—and neither is our responsibility to the people who use it or the people who will maintain it.
 
 ## Lessons from Open Source
 
