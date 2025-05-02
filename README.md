@@ -1,8 +1,13 @@
+> [!NOTE]
+> This document is a reminder—for myself more than anyone—of the magic of software and the profound privilege and responsibility that comes with building it. It attempts to distill my personal dogma and shouldn’t be read as a critique of other perspectives.
+>
+> I revisit this when I’m feeling burned out, uninspired, or just need to hype myself up for the work ahead. If you’re reading this, I hope it helps you do the same.
+
 ## First Principles
 
 Software is a human tool. It exists to solve problems, save time, and ideally, as Marie Condo would say, spark joy. The value of software isn’t in lines of code or shipped velocity. It’s whether someone, somewhere, had a better day because of it.
 
-Most software fails at this. Not because teams lack technical talent, but because we often build for ourselves or for each other, rather than the actual people using what we ship. It’s like designing a kitchen for a magazine cover rather than for someone who’s trying to cook dinner while wrangling a toddler.
+Most software fails at this. Not because teams lack technical talent, but because we often build for ourselves or for each other, rather than the actual people using what we ship. It’s like designing a kitchen for an Instagram post rather than for _actual_ home cooks who are desperately trying to get dinner on the table while wrangling a toddler.
 
 The trap is easy to fall into. We chase complexity, ship features that dazzle on demos but confuse in practice, and skip research because it doesn’t _feel_ productive. Add to that the pressure from business stakeholders to move fast, cut corners, and stack features, and the result is often a bloated interface wrapped around a shaky foundation.
 
@@ -53,10 +58,10 @@ By channeling some of that mindset—open collaboration, honest feedback, and re
 
 # Final Thought
 
-Software is powerful. Done right, it scales empathy. It makes complex things feel simple. It gives people back time, confidence, and energy. But it’s easy to forget that when you’re staring at a Jira board or debugging a flaky test.
+Software is powerful. Done right, it can feel like magic, making complex tasks feel simple or gone altogether. It can save people time, the most precious resource in the universe. It can allow them to explore other worlds. It can give them confidence, peace of mind, and empower them in ways that nothing else can. It’s easy to forget that when you’re staring at a Jira board or debugging a flaky test.
 
-So here’s the reminder: we’re not just building systems. We’re building experiences. Every line of code we write nudges someone’s day in one direction or another.
+We’re not just building systems. We’re building experiences. Every line of code we write nudges someone’s day in one direction or another.
 
-That’s a privilege. And a responsibility.
+That’s a privilege and a responsibility.
 
 Let’s take it seriously.
