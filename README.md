@@ -39,6 +39,12 @@ Agile isn’t about rituals. It’s about learning fast. Ship small. Validate co
 
 The best ideas happen when engineers, designers, PMs, marketers, and users all see the same picture. Don’t wait for handoffs. Create shared context early and often.
 
+### Cut features, not corners.
+
+As engineers, we’re often asked to do more with less. The instinct can be to rush, to duct tape something together “for now.” But shortcuts in quality always come due and that "opportunity to refactor it" will never come. Unstable features will break customer trust, something that can rarely be earned back.
+
+The better trade is scope. Build less, but build it right. Clean architecture, clear interfaces, well-tested code are investments, not luxuries. Code that’s reliable, maintainable, and a joy to work with is the best way to serve both your users and your future self. Future work will be faster, debugging easier, and onboarding smoother. Customers remember how your product made them feel, not how much you shipped.
+
 ### Cultivate humility.
 
 Ego kills good products. Stay curious. Let go of the need to be right. The best engineers I know question their own assumptions more than anyone else.
