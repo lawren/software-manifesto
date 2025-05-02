@@ -21,7 +21,7 @@ The path forward isn’t mysterious, but it’s rarely followed with discipline.
 
 ### 1. _Always_ start with the user.
 
-Don’t ask users what they want. Watch what they do. Understand the job they’re hiring your product to do. Treat UX research like debugging for real-world problems—because that’s exactly what it is.
+Don’t ask users what they want[^2]. Watch what they do. Understand the job they’re hiring your product to do. Treat UX research like debugging for real-world problems—because that’s exactly what it is.
 
 ### 2. Prioritize relentlessly.
 
@@ -67,3 +67,4 @@ That’s a privilege and a responsibility.
 Let’s take it seriously.
 
 [^1]: [The Design of Everyday Things](https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf)
+[^2]: [Two-factor Theory of Emotion](https://en.wikipedia.org/wiki/Two-factor_theory_of_emotion)
