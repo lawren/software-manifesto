@@ -7,7 +7,7 @@
 
 Software is a human tool. It exists to solve problems, save time, and ideally, as Marie Condo would say, spark joy. The value of software isn’t in lines of code or shipped velocity. It’s whether someone, somewhere, had a better day because of it.
 
-Most software fails at this. Not because teams lack technical talent, but because we often build for ourselves or for each other, rather than the actual people using what we ship. It’s like designing a kitchen for an Instagram post rather than for _actual_ home cooks who are desperately trying to get dinner on the table while wrangling a toddler.
+Most software fails at this. For that matter, most products of any sort fail at this[^1]. Not because teams lack talent, but because we often build for ourselves or for each other, rather than the actual people using what we ship. It’s like designing a kitchen for an Instagram post rather than for _actual_ home cooks who are desperately trying to get dinner on the table while wrangling a toddler.
 
 The trap is easy to fall into. We chase complexity, ship features that dazzle on demos but confuse in practice, and skip research because it doesn’t _feel_ productive. Add to that the pressure from business stakeholders to move fast, cut corners, and stack features, and the result is often a bloated interface wrapped around a shaky foundation.
 
@@ -65,3 +65,5 @@ We’re not just building systems. We’re building experiences. Every line of c
 That’s a privilege and a responsibility.
 
 Let’s take it seriously.
+
+[^1]: [The Design of Everyday Things](https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf)
