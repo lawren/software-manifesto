@@ -1,5 +1,5 @@
 > [!NOTE]
-> This document is a reminder—for myself more than anyone—of the magic of software and the profound privilege and responsibility that comes with building it. It attempts to distill my personal dogma and shouldn’t be read as a critique of other perspectives.
+> This document is a reminder (for myself more than anyone) of the magic of software and the profound privilege and responsibility that comes with building it. It attempts to distill my personal dogma and shouldn’t be read as a critique of other perspectives.
 >
 > I revisit this when I’m feeling burned out, uninspired, or just need to hype myself up for the work ahead. If you’re reading this, I hope it helps you do the same.
 
@@ -21,7 +21,7 @@ The path forward isn’t mysterious, but it’s rarely followed with discipline.
 
 ### 1. _Always_ start with the user.
 
-Don’t ask users what they want.[^2] Watch what they do. Understand the job they’re hiring your product to do. Treat UX research like debugging for real-world problems—because that’s exactly what it is.
+Don’t ask users what they want.[^2] Watch what they do. Understand the job they’re hiring your product to do. Treat UX research like debugging for real-world problems, because that’s exactly what it is.
 
 ### 2. Prioritize relentlessly.
 
@@ -33,11 +33,11 @@ Agile isn’t about rituals. It’s about learning fast. Ship small. Validate co
 
 ### 4. Tear down the silos.
 
-The best ideas happen when engineers, designers, PMs, marketers, and users all see the same picture. Don’t wait for handoffs—create shared context early and often.
+The best ideas happen when engineers, designers, PMs, marketers, and users all see the same picture. Don’t wait for handoffs. Create shared context early and often.
 
 ### 5. Teach UX everywhere.
 
-UX shouldn’t be the designer’s job alone. If you write code that touches people, you’re part of the UX. Help engineers understand the “why” behind user behavior—not to replace designers, but to collaborate better with them.
+UX shouldn’t be the designer’s job alone. If you write code that touches people, you’re part of the UX. Help engineers understand the “why” behind user behavior, not to replace designers, but to collaborate better with them.
 
 ### 6. Cultivate humility.
 
@@ -49,12 +49,12 @@ None of this is about perfection. It’s about iteration. Software is never done
 
 Open source isn’t perfect, but it offers some powerful lessons in how great software can emerge from alignment with real user needs:
 
-- It’s community-driven. Features are added because people need them—not because someone in a corner office had a hunch.
+- It’s community-driven. Features are added because people need them, not because someone in a corner office had a hunch.
 - It’s meritocratic. Good ideas rise to the top, no matter where they come from. Politics matter less than practicality.
-- It’s transparent. Progress is visible. Roadmaps are public. Mistakes get made out in the open—and fixed just as publicly.
+- It’s transparent. Progress is visible. Roadmaps are public. Mistakes get made out in the open and fixed just as publicly.
 - It’s adaptable. Open source lives or dies by its ability to evolve. That responsiveness is something every team should aspire to.
 
-By channeling some of that mindset—open collaboration, honest feedback, and responsiveness to user signals—we can build software that doesn’t just “work,” but works well.
+By channeling some of that mindset (open collaboration, honest feedback, and responsiveness to user signals) we can build software that doesn’t just “work,” but works well.
 
 # Final Thought
 
@@ -62,9 +62,7 @@ Software is powerful. Done right, it can feel like magic, making complex tasks f
 
 We’re not just building systems. We’re building experiences. Every line of code we write nudges someone’s day in one direction or another.
 
-That’s a privilege and a responsibility.
-
-Let’s take it seriously.
+That’s a privilege and a responsibility we oughta take seriously.
 
 [^1]: [The Design of Everyday Things](https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf)
 [^2]: [Two-factor Theory of Emotion](https://en.wikipedia.org/wiki/Two-factor_theory_of_emotion)
