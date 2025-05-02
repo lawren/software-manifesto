@@ -1,20 +1,20 @@
 ## First Principles
 
-At its core, software is a human tool. It exists to solve problems, save time, and occasionally spark a little joy. The value of software isn’t measured in lines of code or shipped velocity—it’s measured in whether someone, somewhere, had a better day because of it.
+Software is a human tool. It exists to solve problems, save time, and ideally, as Marie Condo would say, spark joy. The value of software isn’t in lines of code or shipped velocity. It’s whether someone, somewhere, had a better day because of it.
 
-And yet, most software fails at this. Not because teams lack technical talent, but because we often build for ourselves—or worse, for each other—rather than the actual people using what we ship. It’s like designing a kitchen for a magazine cover rather than for someone who’s trying to cook dinner while wrangling a toddler.
+Most software fails at this. Not because teams lack technical talent, but because we often build for ourselves or for each other, rather than the actual people using what we ship. It’s like designing a kitchen for a magazine cover rather than for someone who’s trying to cook dinner while wrangling a toddler.
 
-The trap is easy to fall into: chasing complexity, shipping features that dazzle on demos but confuse in practice, or skipping research because it doesn’t “feel productive.” Add to that the pressure from business stakeholders to move fast, cut corners, and stack features, and the result is often a bloated interface wrapped around a shaky foundation.
+The trap is easy to fall into. We chase complexity, ship features that dazzle on demos but confuse in practice, and skip research because it doesn’t _feel_ productive. Add to that the pressure from business stakeholders to move fast, cut corners, and stack features, and the result is often a bloated interface wrapped around a shaky foundation.
 
-Deadlines can erode nuance. Feedback loops get throttled. Iteration gets skipped. And what you end up with is software that technically works, but doesn’t actually work for the people who rely on it.
+Deadlines can erode nuance. Feedback loops get throttled. Iteration gets skipped. What you end up with is software that technically works, but doesn’t actually work for the people who rely on it.
 
-We can do better. We must.
+We can do better.
 
 ## How We Improve
 
-The path forward isn’t mysterious—it’s just rarely followed with discipline. Here’s how we close the gap between good intentions and great products:
+The path forward isn’t mysterious, but it’s rarely followed with discipline. Here’s how we close the gap between good intentions and great products:
 
-### 1. Start with the user. Always.
+### 1. _Always_ start with the user.
 
 Don’t ask users what they want. Watch what they do. Understand the job they’re hiring your product to do. Treat UX research like debugging for real-world problems—because that’s exactly what it is.
 
