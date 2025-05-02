@@ -7,7 +7,7 @@
 
 Software is a human tool. It exists to solve problems, save time, and ideally, as Marie Condo would say, spark joy. The value of software isn’t in lines of code or shipped velocity. It’s whether someone, somewhere, had a better day because of it.
 
-Most software fails at this. For that matter, most products of any sort fail at this[^1]. Not because teams lack talent, but because we often build for ourselves or for each other, rather than the actual people using what we ship. It’s like designing a kitchen for an Instagram post rather than for _actual_ home cooks who are desperately trying to get dinner on the table while wrangling a toddler.
+Most software fails at this. For that matter, most products of any sort fail at this.[^1] Not because teams lack talent, but because we often build for ourselves or for each other, rather than the actual people using what we ship. It’s like designing a kitchen for an Instagram post rather than for _actual_ home cooks who are desperately trying to get dinner on the table while wrangling a toddler.
 
 The trap is easy to fall into. We chase complexity, ship features that dazzle on demos but confuse in practice, and skip research because it doesn’t _feel_ productive. Add to that the pressure from business stakeholders to move fast, cut corners, and stack features, and the result is often a bloated interface wrapped around a shaky foundation.
 
@@ -21,7 +21,7 @@ The path forward isn’t mysterious, but it’s rarely followed with discipline.
 
 ### 1. _Always_ start with the user.
 
-Don’t ask users what they want[^2]. Watch what they do. Understand the job they’re hiring your product to do. Treat UX research like debugging for real-world problems—because that’s exactly what it is.
+Don’t ask users what they want.[^2] Watch what they do. Understand the job they’re hiring your product to do. Treat UX research like debugging for real-world problems—because that’s exactly what it is.
 
 ### 2. Prioritize relentlessly.
 
