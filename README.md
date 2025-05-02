@@ -19,27 +19,27 @@ We can do better.
 
 The path forward isn’t mysterious, but it’s rarely followed with discipline. Here’s how we close the gap between good intentions and great products:
 
-### 1. _Always_ start with the user.
+### _Always_ start with the user.
 
 Don’t ask users what they want.[^2] Watch what they do. Understand the job they’re hiring your product to do. Treat UX research like debugging for real-world problems, because that’s exactly what it is.
 
-### 2. Prioritize relentlessly.
-
-Every new feature is a trade-off. Simplicity is an active choice, not a default. Before you ship anything, ask: Does this make the user’s life better? Not cooler. Not more powerful. Just better.
-
-### 3. Shorten the feedback loop.
-
-Agile isn’t about rituals. It’s about learning fast. Ship small. Validate constantly. Adapt. Treat feedback not as critique, but as compass.
-
-### 4. Tear down the silos.
-
-The best ideas happen when engineers, designers, PMs, marketers, and users all see the same picture. Don’t wait for handoffs. Create shared context early and often.
-
-### 5. Teach UX everywhere.
+### Teach UX everywhere.
 
 UX shouldn’t be the designer’s job alone. If you write code that touches people, you’re part of the UX. Help engineers understand the “why” behind user behavior, not to replace designers, but to collaborate better with them.
 
-### 6. Cultivate humility.
+### Prioritize relentlessly.
+
+Every new feature is a trade-off. Simplicity is a prerequisite for reliability and an active choice, not a default. Before you ship anything, ask: Does this make the user’s life better? Not cooler. Not more powerful. Just better. If the answer isn't a clear "yes", resist. These small additions create noise and add complexity to our products, making shipping actual value in the future more difficult.
+
+### Shorten the feedback loop.
+
+Agile isn’t about rituals. It’s about learning fast. Ship small. Validate constantly. Adapt. Treat feedback not as critique, but as compass.
+
+### Tear down the silos.
+
+The best ideas happen when engineers, designers, PMs, marketers, and users all see the same picture. Don’t wait for handoffs. Create shared context early and often.
+
+### Cultivate humility.
 
 Ego kills good products. Stay curious. Let go of the need to be right. The best engineers I know question their own assumptions more than anyone else.
 
