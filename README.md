@@ -75,4 +75,4 @@ We’re not just building systems. We’re building experiences. Every line of c
 That’s a privilege and a responsibility we oughta take seriously.
 
 [^1]: [The Design of Everyday Things](https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf)
-[^2]: [Two-factor Theory of Emotion](https://en.wikipedia.org/wiki/Two-factor_theory_of_emotion)
+[^2]: See Marty Cagan’s _Inspired_ or Jobs’ commentary on product design. Users don’t always know what they want—but their behavior will show you what they need.
