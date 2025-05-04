@@ -64,7 +64,7 @@ Open source isn’t perfect, but it offers some powerful lessons in how great so
 - It’s transparent. Progress is visible. Roadmaps are public. Mistakes get made out in the open and fixed just as publicly.
 - It’s adaptable. Open source lives or dies by its ability to evolve. That responsiveness is something every team should aspire to.
 
-By channeling some of that mindset (open collaboration, honest feedback, and responsiveness to user signals) we can build software that doesn’t just “work,” but works well.
+The best open source projects thrive because they stay grounded in actual needs. That’s the mindset every team, open or closed, should emulate. By channeling those qualities (open collaboration, honest feedback, and responsiveness to user signals) we can build software that doesn’t just “work,” but works well.
 
 # Final Thought
 
