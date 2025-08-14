@@ -1,78 +1,74 @@
 > [!NOTE]
-> This document is a reminder (for myself more than anyone) of the magic of software and the profound privilege and responsibility that comes with building it. It attempts to distill my personal dogma and shouldn’t be read as a critique of other perspectives.
->
-> I revisit this when I’m feeling burned out, uninspired, or just need to hype myself up for the work ahead. If you’re reading this, I hope it helps you do the same.
+> This is mostly a note to self. A personal reminder of why I build software, how I try to do it well, and the privilege and responsibility baked into the job. It’s not a manifesto to convert anyone else, though if you’re here, you might find it useful when you’re burned out, stuck in Jira hell, or just need a reason to care again.
 
 ## First Principles
 
-Software is a human tool. It exists to solve problems, save time, and ideally, as Marie Condo would say, spark joy. The value of software isn’t in lines of code or shipped velocity. It’s whether someone, somewhere, had a better day because of it.
+Software is a human tool. It’s not an abstract exercise in cleverness, it’s a wrench to turn a bolt in someone’s actual life. It should solve real problems, save real time, and, if we’re lucky, spark a little joy along the way. The value isn’t in the lines of code or the speed you slammed “deploy”. It’s whether someone, somewhere, had a measurably better day because of what you shipped.
 
-Most software fails at this. For that matter, most products of any sort fail at this.[^1] Not because teams lack talent, but because we often build for ourselves or for each other, rather than the actual people using what we ship. It’s like designing a kitchen for an Instagram post rather than for _actual_ home cooks who are desperately trying to get dinner on the table while wrangling a toddler.
+Most software fails at this. Hell, most products do.[^1] Not because the people building them are bad at their jobs, but because we fall into the trap of building for ourselves, or worse, for each other. That’s how you end up with a kitchen designed for an Instagram instead of the stressed-out parent trying to get spaghetti on the table before the toddler starts gnawing on a shoe.
 
-The trap is easy to fall into. We chase complexity, ship features that dazzle on demos but confuse in practice, and skip research because it doesn’t _feel_ productive. Add to that the pressure from business stakeholders to move fast, cut corners, and stack features, and the result is often a bloated interface wrapped around a shaky foundation.
+The trap is seductive. Complexity feels like progress. We crank out features that look slick in a demo but turn into molasses in production, gumming up everything else around it. We skip research because it doesn’t feel like “real work.” Then the business side piles on, demanding you move faster, cut corners, pack in more. Before long, you’ve got a shiny, bloated interface draped over a rickety foundation.
 
-Deadlines can erode nuance. Feedback loops get throttled. Iteration gets skipped. What you end up with is software that technically works, but doesn’t actually work for the people who rely on it.
+Deadlines sand the nuance off decisions. Feedback loops stall. Iteration gets skipped. You ship something that technically works, but doesn’t work for the human beings depending on it.
 
 We can do better.
 
 ## How We Improve
 
-The path forward isn’t mysterious, but it’s rarely followed with discipline. Here’s how we close the gap between good intentions and great products:
+There’s no mystery to building good software. The hard part is having the discipline to actually follow the obvious rules.
 
-### _Always_ start with the user.
+### Start with the user, always.
 
-Don’t ask users what they want.[^2] Watch what they do. Understand the job they’re hiring your product to do. Treat UX research like debugging for real-world problems, because that’s exactly what it is.
+Unless you want to end up building an SUV with a cupholder in every possible surface, don’t just ask users what they want.[^2] Watch what they do. Figure out the job they’re hiring your product to do. UX research is debugging reality. Treat it that way.
 
-### Teach UX everywhere.
+### Spread UX literacy everywhere.
 
-UX shouldn’t be the designer’s job alone. If you write code that touches people, you’re part of the UX. Help engineers understand the “why” behind user behavior, not to replace designers, but to collaborate better with them.
+If your code touches humans, you’re doing UX. Engineers who understand the “why” behind user behavior don’t replace designers, they make their work land better.
 
-### Prioritize relentlessly.
+### Prioritize like a zealot.
 
-Every new feature is a trade-off. Simplicity is a prerequisite for reliability and an active choice, not a default. Before you ship anything, ask: Does this make the user’s life better? Not cooler. Not more powerful. Just better. If the answer isn't a clear "yes", resist. These small additions create noise and add complexity to our products, making shipping actual value in the future more difficult.
+Every new feature is a deal with the devil. Simplicity isn’t the default state, it’s a hard-won choice. Before you add anything, ask, “Does this make life better?” Not cooler, not more powerful, not more “engaging”; just better. If the answer isn’t a clear yes, drop it. Otherwise, you’re adding noise now and pain later.
 
-### Shorten the feedback loop.
+### Collapse the feedback loop.
 
-Agile isn’t about rituals. It’s about learning fast. Ship small. Validate constantly. Adapt. Treat feedback not as critique, but as compass.
+Agile isn’t standups and story points. It’s about learning faster than you can guess wrong. Ship small, validate often, adapt without ego. Treat feedback like a compass, not a judgment.
 
-### Tear down the silos.
+### Smash the silos.
 
-The best ideas happen when engineers, designers, PMs, marketers, and users all see the same picture. Don’t wait for handoffs. Create shared context early and often.
+The best work happens when everyone sees the same picture early. That means engineers, designers, PMs, marketers, and yes, actual users. Skip the ceremonial handoffs. Build shared context fast and keep it alive.
 
 ### Cut features, not corners.
 
-As engineers, we’re often asked to do more with less. The instinct can be to rush, to duct tape something together “for now.” But shortcuts in quality always come due and that "opportunity to refactor it" will never come. Unstable features will break customer trust, something that can rarely be earned back.
+When resources get tight, the temptation is to rush and tape things together. That debt comes due. It always does. The better move is to shrink scope. Build less, but build it right. Reliable architecture, clear interfaces, and tests that actually mean something aren’t “nice to have”. They’re the multiplier on every future project.
 
-The better trade is scope. Build less, but build it right. Clean architecture, clear interfaces, well-tested code are investments, not luxuries. Code that’s reliable, maintainable, and a joy to work with is the best way to serve both your users and your future self. Future work will be faster, debugging easier, and onboarding smoother. Customers remember how your product made them feel, not how much you shipped.
+Customers remember how your product made them feel, not how many bullet points you crammed into the release notes.
 
 ### Cultivate humility.
 
-Ego kills good products. Stay curious. Let go of the need to be right. The best engineers I know question their own assumptions more than anyone else.
+Ego quietly kills more products than bad code. Question your assumptions. That messy, weird code you’re dying to rewrite? It probably exists for a reason. Understand it before you gut it. I’ve rewritten things I shouldn’t have and paid for it later.
 
-That janky-looking code you want to rewrite? It was probably written by someone just as thoughtful, solving a real problem under different constraints. Before you replace it, make sure you understand what it’s doing and why. Sometimes a rewrite is the right call, but only after you’ve earned the context. I’ve made this mistake more times than I’d like to admit. It’s the trap I fall into more than any other.
+And one day, someone will look at your most elegant solution and think, “what the hell is this?” Leave them breadcrumbs. Document your trade-offs. Write with empathy for the next poor soul who has to read your work.
 
-And your code? It will face the same scrutiny someday. Someone will look at your elegant solution—the one you poured hours into—and think, what were they thinking? Show them you cared. Leave breadcrumbs. Document trade-offs. Write with empathy for whoever picks it up next. Ideally, they should not have to guess whether you were rushed, clever, or right.
-
-This is not about perfection. It is about progress. Software is never truly done, and neither is our responsibility to the people who use it or the people who maintain it.
+Perfection isn’t the point. Progress is. Software is never finished, and neither is our responsibility to the people who use it or the ones who have to maintain it.
 
 ## Lessons from Open Source
 
-Open source isn’t perfect, but it offers some powerful lessons in how great software can emerge from alignment with real user needs:
+Open source isn’t flawless, but it nails a few things we’d be smart to steal:
 
-- It’s community-driven. Features are added because people need them, not because someone in a corner office had a hunch.
-- It’s meritocratic. Good ideas rise to the top, no matter where they come from. Politics matter less than practicality.
-- It’s transparent. Progress is visible. Roadmaps are public. Mistakes get made out in the open and fixed just as publicly.
-- It’s adaptable. Open source lives or dies by its ability to evolve. That responsiveness is something every team should aspire to.
+- **Community-driven.** Features land because they’re needed, not because someone’s gut said so in a boardroom.
+- **Meritocratic.** Good ideas win more than politics.
+- **Transparent.** Progress, mistakes, and fixes are all out in the open.
+- **Adaptable.** It survives or dies by how quickly it can evolve.
 
-The best open source projects thrive because they stay grounded in actual needs. That’s the mindset every team, open or closed, should emulate. By channeling those qualities (open collaboration, honest feedback, and responsiveness to user signals) we can build software that doesn’t just “work,” but works well.
+The best open source projects stay lashed to actual needs, not hypothetical ones. They collaborate openly, accept feedback without flinching, and evolve at the speed of reality.
 
 # Final Thought
 
-Software is powerful. Done right, it can feel like magic, making complex tasks feel simple or gone altogether. It can save people time, the most precious resource in the universe. It can allow them to explore other worlds. It can give them confidence, peace of mind, and empower them in ways that nothing else can. It’s easy to forget that when you’re staring at a Jira board or debugging a flaky test.
+Done right, software feels like magic. It makes hard things easy or makes them disappear entirely. It gives people time back, which is the most valuable thing any of us have. It can give them confidence, peace of mind, or the power to do something they couldn’t do before.
 
-We’re not just building systems. We’re building experiences. Every line of code we write nudges someone’s day in one direction or another.
+It’s easy to forget that when you’re elbows-deep in a flaky test or staring down a Jira backlog. But every line of code tips someone’s day in one direction or another.
 
-That’s a privilege and a responsibility we oughta take seriously.
+That’s not just a job. That’s a superpower and a privilege.
 
 [^1]: [The Design of Everyday Things](https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf)
 [^2]: See Marty Cagan’s _Inspired_ or Jobs’ commentary on product design. Users don’t always know what they want—but their behavior will show you what they need.
