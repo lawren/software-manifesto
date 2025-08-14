@@ -62,7 +62,7 @@ Open source isn’t flawless, but it nails a few things we’d be smart to steal
 
 The best open source projects stay lashed to actual needs, not hypothetical ones. They collaborate openly, accept feedback without flinching, and evolve at the speed of reality.
 
-# Final Thought
+## Final Thought
 
 Done right, software feels like magic. It makes hard things easy or makes them disappear entirely. It gives people time back, which is the most valuable thing any of us have. It can give them confidence, peace of mind, or the power to do something they couldn’t do before.
 
