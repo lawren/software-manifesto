@@ -1,6 +1,8 @@
 > [!NOTE]
 > This is mostly a note to self. A personal reminder of why I build software, how I try to do it well, and the privilege and responsibility baked into the job. It’s not a manifesto to convert anyone else, though if you’re here, you might find it useful when you’re burned out, stuck in Jira hell, or just need a reason to care again.
 
+<br>
+
 ## First Principles
 
 Software is a human tool. It’s not an abstract exercise in cleverness, it’s a wrench to turn a bolt in someone’s actual life. It should solve real problems, save real time, and, if we’re lucky, spark a little joy along the way. The value isn’t in the lines of code or the speed you slammed “deploy”. It’s whether someone, somewhere, had a measurably better day because of what you shipped.
@@ -12,6 +14,8 @@ The trap is seductive. Complexity feels like progress. We crank out features tha
 Deadlines sand the nuance off decisions. Feedback loops stall. Iteration gets skipped. You ship something that technically works, but doesn’t work for the human beings depending on it.
 
 We can do better.
+
+<br>
 
 ## How We Improve
 
@@ -51,6 +55,8 @@ And one day, someone will look at your most elegant solution and think, “what 
 
 Perfection isn’t the point. Progress is. Software is never finished, and neither is our responsibility to the people who use it or the ones who have to maintain it.
 
+<br>
+
 ## Lessons from Open Source
 
 Open source isn’t flawless, but it nails a few things we’d be smart to steal:
@@ -62,6 +68,8 @@ Open source isn’t flawless, but it nails a few things we’d be smart to steal
 
 The best open source projects stay lashed to actual needs, not hypothetical ones. They collaborate openly, accept feedback without flinching, and evolve at the speed of reality.
 
+<br>
+
 ## Final Thought
 
 Done right, software feels like magic. It makes hard things easy or makes them disappear entirely. It gives people time back, which is the most valuable thing any of us have. It can give them confidence, peace of mind, or the power to do something they couldn’t do before.
@@ -69,6 +77,10 @@ Done right, software feels like magic. It makes hard things easy or makes them d
 It’s easy to forget that when you’re elbows-deep in a flaky test or staring down a Jira backlog. But every line of code tips someone’s day in one direction or another.
 
 That’s not just a job. That’s a superpower and a privilege.
+
+<br>
+
+<br>
 
 [^1]: [The Design of Everyday Things](https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf)
 [^2]: See Marty Cagan’s _Inspired_ or Jobs’ commentary on product design. Users don’t always know what they want—but their behavior will show you what they need.
